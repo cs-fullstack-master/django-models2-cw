@@ -24,4 +24,4 @@ Create a view and corresponding route for endpoint ```deleteres/``` that will de
 * Enhance the code for the ```readres``` view to return the list of Respodents as pretty printed HTML (HINT: A HTML table is fine)
 
 ### NOTE:
-superuser user ID and password is ```student``/```C0d3Cr3w```
+Migrate and create a superuser to use Django admin as needed
